@@ -1,0 +1,10 @@
+export const startDateBtn = "[data-testid='has-start-date-no']";
+export const noDateBtn = "[data-testid='has-start-date-no']";
+export const emailField = "[data-testid='email-address']";
+export const invalidEmailMessage = "[id='email-address-helper-text']";
+export const numberField = "[data-testid='telephone-number']";
+export const nextBtn = "[data-testid='next-button']";
+export const invalidNumberMessage = "[id='telephone-number-helper-text']";
+export const clientVulnerabilitiesNoBtn = "[data-testid='vulnerable-customer-no']";
+export const paymentDetailNoBtn = "[data-testid='store-client-payment-details-no']";
+export const backBtn = "[data-testid='back-button']";

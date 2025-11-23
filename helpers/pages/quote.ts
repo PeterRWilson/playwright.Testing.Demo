@@ -1,0 +1,13 @@
+export const quoteHeader = "[data-testid='quote-page-heading']";
+export const resultsContainer = "[data-testid='quote-results']";
+export const noQuoteMessage = "[data-testid='no-quote-message']";
+export const downloadQuoteBtn = "[data-testid='download-quote-button']";
+export const editDetailsBtn = "[data-testid='amend-details-button']";
+export const editDetailsPu = "[data-testid='modal-content']";
+export const PuSaveDetailsBtn = "[data-testid='save-and-use']";
+export const refreshQuotesBtn = "[data-testid='refresh-quotes-button']";
+export const emergencyHomeCoverCB = "[data-testid='additional-home-emergency']";
+export const legalProtectionCB = "[data-testid='additional-legal-protection']";
+export const applyBtn = "[data-testid='apply-button']";
+export const monthlyPrice = "[id='monthly-premiums']";
+export const yearlyPrice = "[id='annual-premiums']";
